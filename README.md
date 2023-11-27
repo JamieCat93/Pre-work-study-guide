@@ -1,4 +1,4 @@
-# <Prework study guide webpage>
+# Prework study guide webpage>
 
 ## Description
 
